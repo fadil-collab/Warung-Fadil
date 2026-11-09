@@ -110,7 +110,7 @@ TokoApp
 
 1. Clone repository ini:
    ```bash
-  [git clone https://github.com/fadil-collab/Warung-Fadil.git]
+   git clone https://github.com/fadil-collab/Warung-Fadil.git]
    ```
 2. Buka NetBeans, pilih **File > Open Project**, lalu pilih folder `TokoApp`.
 3. Klik kanan project, pilih **Reload POM**, dan tunggu dependensi JavaFX terunduh.
